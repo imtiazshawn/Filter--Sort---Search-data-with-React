@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "name": "John",
+            "email": "john@gmail.com",
+            "phone": "054512121",
+            "adress": "Virginia, USA",
+            "id": 3,
+            "status": "inactive"
+        },
+        {
+            "name": "Peter",
+            "email": "peter@gmail.com",
+            "phone": "054511212",
+            "adress": "Manchester, UK",
+            "id": 3,
+            "status": "active"
+        },
+        {
+            "name": "Abraham",
+            "email": "abraham@gmail.com",
+            "phone": "454512121",
+            "adress": "Madrid, Spain",
+            "id": 3,
+            "status": "active"
+        },
+        {
+            "name": "Jason",
+            "email": "jason@gmail.com",
+            "phone": "254512551",
+            "adress": "Osterdam, Netherlands",
+            "id": 3,
+            "status": "active"
+        },
+        {
+            "name": "Alex",
+            "email": "alex@gmail.com",
+            "phone": "152454663",
+            "adress": "London, Uk",
+            "id": 3,
+            "status": "inactive"
+        },
+        {
+            "name": "Alisson",
+            "email": "alisson@gmail.com",
+            "phone": "484131844",
+            "adress": "Stockholm, Sweden",
+            "id": 3,
+            "status": "active"
+        },
+        {
+            "name": "David",
+            "email": "david@gmail.com",
+            "phone": "464654653",
+            "adress": "New York, USA",
+            "id": 3,
+            "status": "active"
+        },
+        {
+            "name": "Aaron",
+            "email": "aaron@gmail.com",
+            "phone": "646451654",
+            "adress": "Santiago, Chile",
+            "id": 3,
+            "status": "inactive"
+        },
+        {
+            "name": "whedon",
+            "email": "whedon@gmail.com",
+            "phone": "146454646",
+            "adress": "Rome, Italy",
+            "id": 3,
+            "status": "active"
+        },
+        {
+            "name": "Joseph",
+            "email": "joseph@gmail.com",
+            "phone": "054512121",
+            "adress": "Dublin, Ireland",
+            "id": 3,
+            "status": "inactive"
+        }
+    ]
+}
